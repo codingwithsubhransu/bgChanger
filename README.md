@@ -9,9 +9,6 @@ This is a React.js application bootstrapped with Vite and styled using Tailwind 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Styling with Tailwind CSS](#styling-with-tailwind-css)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
